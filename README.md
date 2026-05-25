@@ -1,6 +1,6 @@
 # Wavendis — MQTT Client
 
-A lightweight, single-file browser-based MQTT client built as an alternative to the unstable HiveMQ demo client. Connects directly to any MQTT broker via WebSocket — no installation, no backend required.
+A lightweight, single-file browser-based MQTT client built as an alternative to the unstable HiveMQ demo client. Connects directly to any MQTT broker via WebSocket — no installation, no backend required. Made as a school project because I hate the default Hive client dashboard.
 
 ---
 
