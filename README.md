@@ -12,11 +12,11 @@ A lightweight, single-file browser-based MQTT client built as an alternative to 
 - **Color-coded subscriptions** — assign a custom color to each topic, reflected across all log views
 - **Publish** messages with configurable QoS (0/1/2) and retain flag
 - **Message log** with five views:
-  - **All** — every event
-  - **Incoming** — received messages only
-  - **Outgoing** — sent messages only
-  - **⇅ Merged** — incoming and outgoing in a single stream with direction arrows
-  - **System** — connection events, subscribe/unsubscribe, errors
+  - **All**: every event
+  - **Incoming**: received messages only
+  - **Outgoing**: sent messages only
+  - **⇅ Merged**: incoming and outgoing in a single stream with direction arrows
+  - **System**: connection events, subscribe/unsubscribe, errors
 - **Ctrl+Enter** shortcut to publish
 - Zero dependencies beyond Paho MQTT JS (loaded via CDN)
 
